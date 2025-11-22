@@ -1,6 +1,3 @@
-á um README.md profissional, bonito e vendável para o seu projeto de cobrança WhatsApp bot 👇
-(Se quiser, posso personalizar com GIF, badges, instruções mais detalhadas ou descrição comercial para clientes!)
-
 📤 Bot de Cobrança Automática via WhatsApp
 
 Automatize o envio de mensagens de cobrança para seus clientes usando Python, Selenium e uma planilha Excel.
