@@ -1,0 +1,25 @@
+Date: 19/11/2025
+Time: 15:1
+Phone Number: +5511999999999
+Message: Olá Cliente Teste, tudo bem? Lembrete amigável: sua fatura de R$ 150.0 venceu. Se já pagou, desconsidere.
+--------------------
+Date: 19/11/2025
+Time: 15:9
+Phone Number: +5519953287964
+Message: Olá Mariana Pessoa, tudo bem? Lembrete amigável: sua fatura de R$ 150.0 venceu. Se já pagou, desconsidere.
+--------------------
+Date: 19/11/2025
+Time: 15:10
+Phone Number: +551984085313
+Message: Olá Tayara, tudo bem? Lembrete amigável: sua fatura de R$ 200.5 venceu. Se já pagou, desconsidere.
+--------------------
+Date: 22/11/2025
+Time: 13:19
+Phone Number: +5519996107311
+Message: Olá Tayara, tudo bem? Lembrete amigável: sua fatura de R$ 250 venceu. Se já pagou, desconsidere.
+--------------------
+Date: 22/11/2025
+Time: 13:20
+Phone Number: +5519996143666
+Message: Olá Mariana Pessoa, tudo bem? Lembrete amigável: sua fatura de R$ 411 venceu. Se já pagou, desconsidere.
+--------------------
